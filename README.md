@@ -1,7 +1,7 @@
 # Egalitarian Equivalent Treatment Effect: Simulation and Testing
 
 ## Project Overview
-This project focuses on testing a software package that computes the Egalitarian Equivalent Treatment Effect (EETE). The codebase is designed to:
+This project focuses on testing a [software package](https://github.com/mkairy/eete) that computes the egalitarian equivalent treatment effect (EETE). The codebase is designed to:
 
 1. Simulate data for treatment and control groups.
 2. Cache visualizations to facilitate analysis of results.
