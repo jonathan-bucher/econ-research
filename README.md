@@ -23,11 +23,19 @@ This project focuses on testing a software package that computes the Egalitarian
 ---
 
 ### `eete.R`, `se.R`, `qq_plot.R`
-**Purpose**: various scripts applying simulation functions to to test eete package functionality.
+**Purpose**: various scripts applying simulation functions to to test the eete packages functionality in the following ways;
 
 - compare estimated eete values to theoretical benchmarks for various parameter values
 - verify accuracy of bootstrapped standard error calculations
 - plot quantiles of theoretical error distributions against those observed
 
+---
+
+### `visualizations.R`
+**Purpose** store visualizations of the tests run above for ease of analysis.
+
+- Histograms of estimation errors
+- scatterplots of standard error estimations
+- qq plots
 ---
 
