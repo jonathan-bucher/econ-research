@@ -11,7 +11,7 @@ This project focuses on testing a software package that computes the Egalitarian
 
 ## File Structure
 
-### 1. `simulation.R`
+### `simulation.R`
 **Purpose**: Contains functions to generate simulated data for treatment and control groups and to cache visualizations.
 
 #### Key Functions:
@@ -22,13 +22,12 @@ This project focuses on testing a software package that computes the Egalitarian
   Utilizes the eete package to calculate the eete of n simulations.
 ---
 
-### 2. `eete.R`
-**Purpose**: Compare estimated eete values to theoretical benchamrks for various parameter values.
+### `eete.R`, `se.R`, `qq_plot.R`
+**Purpose**: various scripts applying simulation functions to to test eete package functionality.
 
----
-
-### 3. `se.R`
-**Purpose**: Verify accuracy of bootstrapped standard error calculations.
+- compare estimated eete values to theoretical benchmarks for various parameter values
+- verify accuracy of bootstrapped standard error calculations
+- plot quantiles of theoretical error distributions against those observed
 
 ---
 
