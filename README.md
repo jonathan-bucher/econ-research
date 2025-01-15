@@ -32,7 +32,7 @@ This project focuses on testing a [software package](https://github.com/mkairy/e
 ---
 
 ### `visualizations.R`
-**Purpose** store visualizations of the tests run above for ease of analysis.
+**Purpose**: store visualizations of the tests run above for ease of analysis.
 
 - Histograms of estimation errors
 - scatterplots of standard error estimations
