@@ -23,7 +23,7 @@ This project focuses on testing a [software package](https://github.com/mkairy/e
 ---
 
 ### `eete.R`, `se.R`, `qq_plot.R`
-**Purpose**: various scripts applying simulation functions to to test the eete packages functionality in the following ways;
+**Purpose:** various scripts applying simulation functions to to test the eete packages functionality in the following ways;
 
 - compare estimated eete values to theoretical benchmarks for various parameter values
 - verify accuracy of bootstrapped standard error calculations
