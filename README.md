@@ -9,6 +9,8 @@ My main goals were to demonstrate the following;
 2. The packages bootstrapping functions worked properly
 3. The estimation errors were properly distributed according to theoretical benchmarks
 
+The best way to see the results of these tests is to check out the [visualizations folder](https://github.com/jonathan-bucher/econ-research/tree/main/visualizations), where I represented these tests graphically for a variety of parameter values.
+
 ---
 
 ## File Structure
