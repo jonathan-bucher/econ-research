@@ -9,7 +9,7 @@ My main goals were to demonstrate the following;
 2. The bootstrapping functions worked properly
 3. The estimation errors were properly distributed according to theoretical benchmarks
 
-Graphic representations of all these tests are stored in the [visualizations folder](https://github.com/jonathan-bucher/econ-research/tree/main/visualizations), and would be a good place to start for someone who doesn't have a lot of knowledge in this area.
+Graphic representations of all these tests are stored in the [visualizations folder](https://github.com/jonathan-bucher/econ-research/tree/main/visualizations), and would be a good place to start for someone looking to get a broad overview of the project results.
 
 ---
 
