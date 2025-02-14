@@ -15,8 +15,9 @@ Graphic representations of all these tests are stored in the [visualizations fol
 
 ## File Structure
 
-### `simulation.R`
-**Purpose**: Contains functions to generate simulated data for treatment and control groups and to cache visualizations.
+### simulation.R
+
+Contains functions to simulate data for treatment and control groups and to cache visualizations.
 
 #### Key Functions:
 - `generate_simulations(mu, sigma, lambda, gamma)`:
@@ -26,8 +27,9 @@ Graphic representations of all these tests are stored in the [visualizations fol
   Utilizes the eete package to calculate the eete of n simulations.
 ---
 
-### `eete.R`, `se.R`, `qq_plot.R`
-**Purpose:** various scripts applying simulation functions to to test the eete package functionality in the following ways;
+### eete.R, se.R, qq_plot.R
+
+Various scripts applying simulation functions to to test the eete package functionality in the following ways;
 
 - compare estimated eete values to theoretical benchmarks for various parameter values
 - verify accuracy of bootstrapped standard error calculations
@@ -35,8 +37,9 @@ Graphic representations of all these tests are stored in the [visualizations fol
 
 ---
 
-### `visualizations.R`
-**Purpose**: store visualizations of the tests run above for ease of analysis.
+### visualizations.R
+
+Store visualizations of the tests run above for ease of analysis.
 
 - Histograms of estimation errors
 - scatterplots of standard error estimations
