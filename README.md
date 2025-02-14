@@ -1,7 +1,7 @@
 # Egalitarian Equivalent Treatment Effect: Simulation and Testing
 
 ## Project Overview
-This project focuses on testing the [eete software package](https://github.com/mkairy/eete), which was designed by my research team to estimate the egalitarian equivalent treatment effect. EETE is a way to measure the impact of a treatment (like a policy or intervention) by calculating how much of the benefit or harm could be evenly distributed among a population, while still having the same overall effect. It allows for a wide range of evaluator preferences with regard to inequality aversion, ranging frrom libertarian veiws, to a desire from complete equity.
+This project focuses on testing the [eete software package](https://github.com/mkairy/eete), which was designed by my research team to estimate the egalitarian equivalent treatment effect. EETE is a way to measure the impact of a policy by calculating how much of the benefit or harm could be evenly distributed among a population, while still having the same overall effect. It allows for a wide range of evaluator preferences with regard to inequality aversion, ranging frrom libertarian veiws, to a desire from complete equity.
 
 My main goals were to demonstrate the following;
 
